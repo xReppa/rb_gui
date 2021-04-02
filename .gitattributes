@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.wdv linguist-language=Windev
+
+*.wdw linguist-language=Windev
