@@ -1,5 +1,5 @@
 # rb_gui
-BatGui for RETROBat 4.0.2
+BatGui for RETROBat 5.0
  
 - Gui to help managing RetroBat config file
 - Quick gamelist editor
